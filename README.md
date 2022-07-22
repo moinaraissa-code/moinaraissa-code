@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @moinaraissa-code
 - 👀 I’m interested in business analyst position 
 - 🌱 I’m currently learning cyber security compliance 
-- 💞️ I’m looking to collaborate on software development or implementation
+- 💞️ I’m looking to collaborate on software development and implementation
 - 📫 How to reach me, check my LinkedIn: moinakodjo
 
 <!---
